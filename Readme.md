@@ -4,8 +4,7 @@ As a software developer, I am always looking to improve my coding skills, deepen
 
 The primary purpose of creating this software is to practice implementing user-friendly console interfaces, using ASCII art for visual enhancements, and creating programs that are both functional and enjoyable. This project also helps solidify my knowledge of C# fundamentals, including console I/O, loops, and method organization.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
+[Software Demo Video]([https://zoom.us/clips/share/A2F3MRZSamxxcTN3dFFscWJhWkRGZ2RMV21RAQ])
 # Development Environment
 
 For this project, I used the following tools:
